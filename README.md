@@ -1,0 +1,1 @@
+![Design preview for the this React Assignment](./public/images/screenshot.png)
